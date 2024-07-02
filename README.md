@@ -30,7 +30,6 @@ From a curious child fascinated by the magic of coding to the Managing Director 
 
 💼 Technical Contributions and Leadership in a Startup:
 
-	•	Role: Co-Founder
 	•	Project: Personalized recommendation app for movies, cafes, bars, events, etc.
 	•	Data Curation Pipeline: Developed initial Python pipelines, managed data scraping, and automated database updates.
 	•	Recommendation System: Designed and built recommendation models in Python, led the development.
