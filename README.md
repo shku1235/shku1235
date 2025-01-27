@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/sharath" target="_blank">Sharath</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/shku1235" target="_blank">Sharath</a></h1>
 <!-- <img width="30%" align="right" src="https://github.com/YourUsername/YourUsername/blob/main/profile-image.svg" > -->
 
 Passionate about Innovation. Experienced in Full-Stack Development and Machine Learning, driving projects from conception to deployment.
